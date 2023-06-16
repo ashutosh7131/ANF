@@ -1,0 +1,145 @@
+<tns:VesItmAttributeStgCollection xmlns:tns="http://xmlns.oracle.com/pcbpel/adapter/db/top/DB_VES_ITM_ATTRIBUTE_STG_Insert" xmlns:LogXPathFunction="http://www.oracle.com/XSL/Transform/java/com.anf.apiservice.log.LogXPathFunction" xmlns:xp20="http://www.oracle.com/XSL/Transform/java/oracle.tip.pc.services.functions.Xpath20" xmlns:anfmsghdr="http://www.abercrombie.com/ns/Schemas/Common/AnfMessageHeader/3">
+  <tns:VesItmAttributeStg>
+    <tns:item>656308243</tns:item>
+    <tns:lang>de_DE</tns:lang>
+    <tns:abercrombienumber>323339222214632832</tns:abercrombienumber>
+    <tns:fibercontentdescription>&quot;Body:100% Baumwolle&quot;|</tns:fibercontentdescription>
+    <tns:fibercontentexclusionname>Ausschliesslich Verzierung</tns:fibercontentexclusionname>
+    <tns:careinstructionswashtext>Maschinenwäsche kalt (30°c), mit ähnlichen farben waschen  </tns:careinstructionswashtext>
+    <tns:careinstructionsbleachtext>Nur chlorfreie bleichmittel   </tns:careinstructionsbleachtext>
+    <tns:careinstructionsdrytext>Trocknen bei niedriger temperatur  </tns:careinstructionsdrytext>
+    <tns:careinstructionsirontext>Nicht heiss bügeln, von links  </tns:careinstructionsirontext>
+    <tns:careinstructionsothertext>Nicht chemisch reinigen  </tns:careinstructionsothertext>
+    <tns:stgInsrtTms>2023-05-16T05:00:33.220-04:00</tns:stgInsrtTms>
+  </tns:VesItmAttributeStg>
+  <tns:VesItmAttributeStg>
+    <tns:item>656308243</tns:item>
+    <tns:lang>en_US</tns:lang>
+    <tns:abercrombienumber>323339222214632832</tns:abercrombienumber>
+    <tns:fibercontentdescription>&quot;Body:100% Cotton&quot;|</tns:fibercontentdescription>
+    <tns:fibercontentexclusionname>Exclusive Of Decoration</tns:fibercontentexclusionname>
+    <tns:careinstructionswashtext>Machine wash cold, with like colors  </tns:careinstructionswashtext>
+    <tns:careinstructionsbleachtext>Only non-chlorine bleach  </tns:careinstructionsbleachtext>
+    <tns:careinstructionsdrytext>Tumble dry low  </tns:careinstructionsdrytext>
+    <tns:careinstructionsirontext>Low iron on reverse side  </tns:careinstructionsirontext>
+    <tns:careinstructionsothertext>Do not dry clean  </tns:careinstructionsothertext>
+    <tns:stgInsrtTms>2023-05-16T05:00:33.220-04:00</tns:stgInsrtTms>
+  </tns:VesItmAttributeStg>
+  <tns:VesItmAttributeStg>
+    <tns:item>656308243</tns:item>
+    <tns:lang>es_ES</tns:lang>
+    <tns:abercrombienumber>323339222214632832</tns:abercrombienumber>
+    <tns:fibercontentdescription>&quot;Cuerpo:100% Algodón&quot;|</tns:fibercontentdescription>
+    <tns:fibercontentexclusionname>Sin Motivos Decorativos</tns:fibercontentexclusionname>
+    <tns:careinstructionswashtext>Lavar a máquina con agua fría, del mismo color  </tns:careinstructionswashtext>
+    <tns:careinstructionsbleachtext>Sólo lejía sin cloro  </tns:careinstructionsbleachtext>
+    <tns:careinstructionsdrytext>Secar en secadora a temperatura baja  </tns:careinstructionsdrytext>
+    <tns:careinstructionsirontext>Planchar a temperatura baja del revés  </tns:careinstructionsirontext>
+    <tns:careinstructionsothertext>No limpiar en seco  </tns:careinstructionsothertext>
+    <tns:stgInsrtTms>2023-05-16T05:00:33.220-04:00</tns:stgInsrtTms>
+  </tns:VesItmAttributeStg>
+  <tns:VesItmAttributeStg>
+    <tns:item>656308243</tns:item>
+    <tns:lang>es_MX</tns:lang>
+    <tns:abercrombienumber>323339222214632832</tns:abercrombienumber>
+    <tns:fibercontentdescription>&quot;Cuerpo:100% Algodón&quot;|</tns:fibercontentdescription>
+    <tns:fibercontentexclusionname>Exclusivo De Decoración</tns:fibercontentexclusionname>
+    <tns:careinstructionswashtext>Lavar a máquina con agua fría, con colores similares  </tns:careinstructionswashtext>
+    <tns:careinstructionsbleachtext>Sólo usar blanqueador sin cloro  </tns:careinstructionsbleachtext>
+    <tns:careinstructionsdrytext>Secar en secadora a baja temperatura  </tns:careinstructionsdrytext>
+    <tns:careinstructionsirontext>Planchar a temperatura baja del lado al revés   </tns:careinstructionsirontext>
+    <tns:careinstructionsothertext>No limpiar en seco  </tns:careinstructionsothertext>
+    <tns:stgInsrtTms>2023-05-16T05:00:33.220-04:00</tns:stgInsrtTms>
+  </tns:VesItmAttributeStg>
+  <tns:VesItmAttributeStg>
+    <tns:item>656308243</tns:item>
+    <tns:lang>fr_CA</tns:lang>
+    <tns:abercrombienumber>323339222214632832</tns:abercrombienumber>
+    <tns:fibercontentdescription>&quot;Corps:100% Coton&quot;|</tns:fibercontentdescription>
+    <tns:fibercontentexclusionname>À L&apos;exclusion De La Décoration</tns:fibercontentexclusionname>
+    <tns:careinstructionswashtext>Laver à froid en machine (30°c), avec couleurs similaires  </tns:careinstructionswashtext>
+    <tns:careinstructionsbleachtext>Blanchiment sans chlore uniquement  </tns:careinstructionsbleachtext>
+    <tns:careinstructionsdrytext>Sécher à la machine cycle doux  </tns:careinstructionsdrytext>
+    <tns:careinstructionsirontext>Repasser à l&apos;envers à faible chaleur  </tns:careinstructionsirontext>
+    <tns:careinstructionsothertext>Ne pas laver à sec  </tns:careinstructionsothertext>
+    <tns:stgInsrtTms>2023-05-16T05:00:33.220-04:00</tns:stgInsrtTms>
+  </tns:VesItmAttributeStg>
+  <tns:VesItmAttributeStg>
+    <tns:item>656308243</tns:item>
+    <tns:lang>fr_FR</tns:lang>
+    <tns:abercrombienumber>323339222214632832</tns:abercrombienumber>
+    <tns:fibercontentdescription>&quot;Corps:100% Coton&quot;|</tns:fibercontentdescription>
+    <tns:fibercontentexclusionname>À L&apos;exclusion De La Décoration</tns:fibercontentexclusionname>
+    <tns:careinstructionswashtext>Laver à froid en machine (30°c), avec couleurs similaires  </tns:careinstructionswashtext>
+    <tns:careinstructionsbleachtext>Blanchiment sans chlore uniquement  </tns:careinstructionsbleachtext>
+    <tns:careinstructionsdrytext>Sécher à la machine cycle doux  </tns:careinstructionsdrytext>
+    <tns:careinstructionsirontext>Repasser à l&apos;envers à faible chaleur  </tns:careinstructionsirontext>
+    <tns:careinstructionsothertext>Ne pas laver à sec  </tns:careinstructionsothertext>
+    <tns:stgInsrtTms>2023-05-16T05:00:33.220-04:00</tns:stgInsrtTms>
+  </tns:VesItmAttributeStg>
+  <tns:VesItmAttributeStg>
+    <tns:item>656308243</tns:item>
+    <tns:lang>it_IT</tns:lang>
+    <tns:abercrombienumber>323339222214632832</tns:abercrombienumber>
+    <tns:fibercontentdescription>&quot;Corpo:100% Cotone&quot;|</tns:fibercontentdescription>
+    <tns:fibercontentexclusionname>Esclusa Decorazione</tns:fibercontentexclusionname>
+    <tns:careinstructionswashtext>Lavare in lavatrice con acqua fredda (30°c), lavare con colori simili  </tns:careinstructionswashtext>
+    <tns:careinstructionsbleachtext>Solo candeggianti non a base di cloro  </tns:careinstructionsbleachtext>
+    <tns:careinstructionsdrytext>Centrifuga delicata  </tns:careinstructionsdrytext>
+    <tns:careinstructionsirontext>Stirare a bassa temperatura sul rovescio  </tns:careinstructionsirontext>
+    <tns:careinstructionsothertext>Non lavare a secco  </tns:careinstructionsothertext>
+    <tns:stgInsrtTms>2023-05-16T05:00:33.220-04:00</tns:stgInsrtTms>
+  </tns:VesItmAttributeStg>
+  <tns:VesItmAttributeStg>
+    <tns:item>656308243</tns:item>
+    <tns:lang>ja_JP</tns:lang>
+    <tns:abercrombienumber>323339222214632832</tns:abercrombienumber>
+    <tns:fibercontentdescription>&quot;ボディ:100% コットン&quot;|</tns:fibercontentdescription>
+    <tns:fibercontentexclusionname>装飾を除く</tns:fibercontentexclusionname>
+    <tns:careinstructionswashtext>洗濯機で水洗いしてください, 同系色の衣類と一緒に  </tns:careinstructionswashtext>
+    <tns:careinstructionsbleachtext>非塩素系の漂白剤のみ  </tns:careinstructionsbleachtext>
+    <tns:careinstructionsdrytext>低温のタンブル乾燥機を使用してください  </tns:careinstructionsdrytext>
+    <tns:careinstructionsirontext>裏側に低温のアイロンをかけてください (80ºc - 120ºc)  </tns:careinstructionsirontext>
+    <tns:careinstructionsothertext>ドライクリーニング禁止  </tns:careinstructionsothertext>
+    <tns:stgInsrtTms>2023-05-16T05:00:33.220-04:00</tns:stgInsrtTms>
+  </tns:VesItmAttributeStg>
+  <tns:VesItmAttributeStg>
+    <tns:item>656308243</tns:item>
+    <tns:lang>nl_NL</tns:lang>
+    <tns:abercrombienumber>323339222214632832</tns:abercrombienumber>
+    <tns:fibercontentdescription>&quot;Body:100% Katoen&quot;|</tns:fibercontentdescription>
+    <tns:fibercontentexclusionname>Exclusief Decoratie</tns:fibercontentexclusionname>
+    <tns:careinstructionswashtext>Machinewas 30ºc, met dezelfde kleur  </tns:careinstructionswashtext>
+    <tns:careinstructionsbleachtext>Alleen chloorvrije bleekmiddelen  </tns:careinstructionsbleachtext>
+    <tns:careinstructionsdrytext>Centrifugeren op laag toerental  </tns:careinstructionsdrytext>
+    <tns:careinstructionsirontext>Lauwwarm strijken op verkeerde kant  </tns:careinstructionsirontext>
+    <tns:careinstructionsothertext>Niet chemisch reinigen  </tns:careinstructionsothertext>
+    <tns:stgInsrtTms>2023-05-16T05:00:33.221-04:00</tns:stgInsrtTms>
+  </tns:VesItmAttributeStg>
+  <tns:VesItmAttributeStg>
+    <tns:item>656308243</tns:item>
+    <tns:lang>zh_CN</tns:lang>
+    <tns:abercrombienumber>323339222214632832</tns:abercrombienumber>
+    <tns:fibercontentdescription>&quot;大身:100% 棉&quot;|</tns:fibercontentdescription>
+    <tns:fibercontentexclusionname>装饰物除外</tns:fibercontentexclusionname>
+    <tns:careinstructionswashtext>冷水机洗, 可与相似色同洗  </tns:careinstructionswashtext>
+    <tns:careinstructionsbleachtext>仅允许非氯漂  </tns:careinstructionsbleachtext>
+    <tns:careinstructionsdrytext>低温翻转干燥  </tns:careinstructionsdrytext>
+    <tns:careinstructionsirontext>低温反面熨烫  </tns:careinstructionsirontext>
+    <tns:careinstructionsothertext>不可干洗  </tns:careinstructionsothertext>
+    <tns:stgInsrtTms>2023-05-16T05:00:33.221-04:00</tns:stgInsrtTms>
+  </tns:VesItmAttributeStg>
+  <tns:VesItmAttributeStg>
+    <tns:item>656308243</tns:item>
+    <tns:lang>zh_TW</tns:lang>
+    <tns:abercrombienumber>323339222214632832</tns:abercrombienumber>
+    <tns:fibercontentdescription>&quot;布身:100% 棉&quot;|</tns:fibercontentdescription>
+    <tns:fibercontentexclusionname>不包括飾物</tns:fibercontentexclusionname>
+    <tns:careinstructionswashtext>冷水清洗（30°c）, 與同色系衣物一起清洗  </tns:careinstructionswashtext>
+    <tns:careinstructionsbleachtext>僅可用不含氯的漂白劑  </tns:careinstructionsbleachtext>
+    <tns:careinstructionsdrytext>低溫機器烘乾  </tns:careinstructionsdrytext>
+    <tns:careinstructionsirontext>反面低溫熨燙  </tns:careinstructionsirontext>
+    <tns:careinstructionsothertext>不可乾洗  </tns:careinstructionsothertext>
+    <tns:stgInsrtTms>2023-05-16T05:00:33.221-04:00</tns:stgInsrtTms>
+  </tns:VesItmAttributeStg>
+</tns:VesItmAttributeStgCollection>

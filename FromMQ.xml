@@ -1,0 +1,500 @@
+<ns0:AnfItemLabelMessage xmlns:ns0="http://www.abercrombie.com/ns/Schemas/Items/AnfItemlabelMessage/3" xmlns:anfmsghdr="http://www.abercrombie.com/ns/Schemas/Common/AnfMessageHeader/3">
+	<ns0:header>
+		<anfmsghdr:received>2023-05-16T05:00:29.594-04:00</anfmsghdr:received>
+		<anfmsghdr:messageType>ItemProductLabel</anfmsghdr:messageType>
+		<anfmsghdr:sourceSystemID>VES</anfmsghdr:sourceSystemID>
+		<anfmsghdr:correlationID>db23897b-4a2e-450c-86f1-ef7be8a8d7b7</anfmsghdr:correlationID>
+	</ns0:header>
+	<ns0:ItemLabel>
+		<ns0:itemNumber>656308243</ns0:itemNumber>
+		<ns0:ProductLabel>
+			<ns0:ImageDetails>
+				<ns0:ImageDetail>
+					<ns0:id>01</ns0:id>
+					<ns0:name>CHINA_PRICE_TICKET</ns0:name>
+					<ns0:isImagePublished>true</ns0:isImagePublished>
+				</ns0:ImageDetail>
+				<ns0:ImageDetail>
+					<ns0:id>02</ns0:id>
+					<ns0:name>CHINA_COMPLY_LABEL</ns0:name>
+					<ns0:isImagePublished>true</ns0:isImagePublished>
+				</ns0:ImageDetail>
+			</ns0:ImageDetails>
+		</ns0:ProductLabel>
+		<ns0:GarmentLabels>
+		<ns0:GarmentLabel lang="de_DE" isProcessed="true">
+			<ns0:abercrombieNumber>323339222214632832</ns0:abercrombieNumber>
+			<ns0:careInstructionString>Wash: MASCHINENWÄSCHE KALT (30°C) , MIT ÄHNLICHEN FARBEN WASCHEN / Bleach: NUR CHLORFREIE BLEICHMITTEL  / Dry: TROCKNEN BEI NIEDRIGER TEMPERATUR / Iron: NICHT HEISS BÜGELN, VON LINKS / Others: NICHT CHEMISCH REINIGEN</ns0:careInstructionString>
+			<ns0:careInstructionSymbolString>5 Q h V Z</ns0:careInstructionSymbolString>
+			<ns0:careInstructions>
+				<ns0:category>Wash</ns0:category>
+				<ns0:descriptions>Maschinenwäsche kalt (30°c), mit ähnlichen farben waschen  </ns0:descriptions>
+				<ns0:symbol>5</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Bleach</ns0:category>
+				<ns0:descriptions>Nur chlorfreie bleichmittel   </ns0:descriptions>
+				<ns0:symbol>Q</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Dry</ns0:category>
+				<ns0:descriptions>Trocknen bei niedriger temperatur  </ns0:descriptions>
+				<ns0:symbol>h</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Iron</ns0:category>
+				<ns0:descriptions>Nicht heiss bügeln, von links  </ns0:descriptions>
+				<ns0:symbol>V</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Others</ns0:category>
+				<ns0:descriptions>Nicht chemisch reinigen  </ns0:descriptions>
+				<ns0:symbol>Z</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:exclusiveOf>Ausschliesslich Verzierung</ns0:exclusiveOf>
+			<ns0:fiberContentShortString>ML KNT T SHRT COTTON.</ns0:fiberContentShortString>
+			<ns0:fiberContentString>Body: 100% Baumwolle</ns0:fiberContentString>
+			<ns0:productName>MALE KNIT T SHIRT</ns0:productName>
+			<ns0:sectionMaterials>
+				<ns0:fiberContents>
+					<ns0:name>Baumwolle</ns0:name>
+					<ns0:percentText>100%</ns0:percentText>
+					<ns0:percentage>100</ns0:percentage>
+					<ns0:shortName>Cotton</ns0:shortName>
+				</ns0:fiberContents>
+				<ns0:materialName>Body</ns0:materialName>
+			</ns0:sectionMaterials>
+		</ns0:GarmentLabel>
+		<ns0:GarmentLabel lang="en_US" isProcessed="true">
+			<ns0:abercrombieNumber>323339222214632832</ns0:abercrombieNumber>
+			<ns0:careInstructionString>Wash: MACHINE WASH COLD , WITH LIKE COLORS / Bleach: ONLY NON-CHLORINE BLEACH / Dry: TUMBLE DRY LOW / Iron: LOW IRON ON REVERSE SIDE / Others: DO NOT DRY CLEAN</ns0:careInstructionString>
+			<ns0:careInstructionSymbolString>5 Q h V Z</ns0:careInstructionSymbolString>
+			<ns0:careInstructions>
+				<ns0:category>Wash</ns0:category>
+				<ns0:descriptions>Machine wash cold, with like colors  </ns0:descriptions>
+				<ns0:symbol>5</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Bleach</ns0:category>
+				<ns0:descriptions>Only non-chlorine bleach  </ns0:descriptions>
+				<ns0:symbol>Q</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Dry</ns0:category>
+				<ns0:descriptions>Tumble dry low  </ns0:descriptions>
+				<ns0:symbol>h</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Iron</ns0:category>
+				<ns0:descriptions>Low iron on reverse side  </ns0:descriptions>
+				<ns0:symbol>V</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Others</ns0:category>
+				<ns0:descriptions>Do not dry clean  </ns0:descriptions>
+				<ns0:symbol>Z</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:exclusiveOf>Exclusive Of Decoration</ns0:exclusiveOf>
+			<ns0:fiberContentShortString>ML KNT T SHRT COTTON.</ns0:fiberContentShortString>
+			<ns0:fiberContentString>Body: 100% Cotton</ns0:fiberContentString>
+			<ns0:productName>MALE KNIT T SHIRT</ns0:productName>
+			<ns0:sectionMaterials>
+				<ns0:fiberContents>
+					<ns0:name>Cotton</ns0:name>
+					<ns0:percentText>100%</ns0:percentText>
+					<ns0:percentage>100</ns0:percentage>
+					<ns0:shortName>Cotton</ns0:shortName>
+				</ns0:fiberContents>
+				<ns0:materialName>Body</ns0:materialName>
+			</ns0:sectionMaterials>
+		</ns0:GarmentLabel>
+		<ns0:GarmentLabel lang="es_ES" isProcessed="true">
+			<ns0:abercrombieNumber>323339222214632832</ns0:abercrombieNumber>
+			<ns0:careInstructionString>Wash: LAVAR A MÁQUINA CON AGUA FRÍA , DEL MISMO COLOR / Bleach: SÓLO LEJÍA SIN CLORO / Dry: SECAR EN SECADORA A TEMPERATURA BAJA / Iron: PLANCHAR A TEMPERATURA BAJA DEL REVÉS / Others: NO LIMPIAR EN SECO</ns0:careInstructionString>
+			<ns0:careInstructionSymbolString>5 Q h V Z</ns0:careInstructionSymbolString>
+			<ns0:careInstructions>
+				<ns0:category>Wash</ns0:category>
+				<ns0:descriptions>Lavar a máquina con agua fría, del mismo color  </ns0:descriptions>
+				<ns0:symbol>5</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Bleach</ns0:category>
+				<ns0:descriptions>Sólo lejía sin cloro  </ns0:descriptions>
+				<ns0:symbol>Q</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Dry</ns0:category>
+				<ns0:descriptions>Secar en secadora a temperatura baja  </ns0:descriptions>
+				<ns0:symbol>h</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Iron</ns0:category>
+				<ns0:descriptions>Planchar a temperatura baja del revés  </ns0:descriptions>
+				<ns0:symbol>V</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Others</ns0:category>
+				<ns0:descriptions>No limpiar en seco  </ns0:descriptions>
+				<ns0:symbol>Z</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:exclusiveOf>Sin Motivos Decorativos</ns0:exclusiveOf>
+			<ns0:fiberContentShortString>ML KNT T SHRT COTTON.</ns0:fiberContentShortString>
+			<ns0:fiberContentString>Cuerpo: 100% Algodón</ns0:fiberContentString>
+			<ns0:productName>MALE KNIT T SHIRT</ns0:productName>
+			<ns0:sectionMaterials>
+				<ns0:fiberContents>
+					<ns0:name>Algodón</ns0:name>
+					<ns0:percentText>100%</ns0:percentText>
+					<ns0:percentage>100</ns0:percentage>
+					<ns0:shortName>Cotton</ns0:shortName>
+				</ns0:fiberContents>
+				<ns0:materialName>Cuerpo</ns0:materialName>
+			</ns0:sectionMaterials>
+		</ns0:GarmentLabel>
+		<ns0:GarmentLabel lang="es_MX" isProcessed="true">
+			<ns0:abercrombieNumber>323339222214632832</ns0:abercrombieNumber>
+			<ns0:careInstructionString>Wash: LAVAR A MÁQUINA CON AGUA FRÍA , CON COLORES SIMILARES / Bleach: SÓLO USAR BLANQUEADOR SIN CLORO / Dry: SECAR EN SECADORA A BAJA TEMPERATURA / Iron: PLANCHAR A TEMPERATURA BAJA DEL LADO AL REVÉS  / Others: NO LIMPIAR EN SECO</ns0:careInstructionString>
+			<ns0:careInstructionSymbolString>5 Q h V Z</ns0:careInstructionSymbolString>
+			<ns0:careInstructions>
+				<ns0:category>Wash</ns0:category>
+				<ns0:descriptions>Lavar a máquina con agua fría, con colores similares  </ns0:descriptions>
+				<ns0:symbol>5</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Bleach</ns0:category>
+				<ns0:descriptions>Sólo usar blanqueador sin cloro  </ns0:descriptions>
+				<ns0:symbol>Q</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Dry</ns0:category>
+				<ns0:descriptions>Secar en secadora a baja temperatura  </ns0:descriptions>
+				<ns0:symbol>h</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Iron</ns0:category>
+				<ns0:descriptions>Planchar a temperatura baja del lado al revés   </ns0:descriptions>
+				<ns0:symbol>V</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Others</ns0:category>
+				<ns0:descriptions>No limpiar en seco  </ns0:descriptions>
+				<ns0:symbol>Z</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:exclusiveOf>Exclusivo De Decoración</ns0:exclusiveOf>
+			<ns0:fiberContentShortString>ML KNT T SHRT COTTON.</ns0:fiberContentShortString>
+			<ns0:fiberContentString>Cuerpo: 100% Algodón</ns0:fiberContentString>
+			<ns0:productName>MALE KNIT T SHIRT</ns0:productName>
+			<ns0:sectionMaterials>
+				<ns0:fiberContents>
+					<ns0:name>Algodón</ns0:name>
+					<ns0:percentText>100%</ns0:percentText>
+					<ns0:percentage>100</ns0:percentage>
+					<ns0:shortName>Cotton</ns0:shortName>
+				</ns0:fiberContents>
+				<ns0:materialName>Cuerpo</ns0:materialName>
+			</ns0:sectionMaterials>
+		</ns0:GarmentLabel>
+		<ns0:GarmentLabel lang="fr_CA" isProcessed="true">
+			<ns0:abercrombieNumber>323339222214632832</ns0:abercrombieNumber>
+			<ns0:careInstructionString>Wash: LAVER À FROID EN MACHINE (30°C) , AVEC COULEURS SIMILAIRES / Bleach: BLANCHIMENT SANS CHLORE UNIQUEMENT / Dry: SÉCHER À LA MACHINE CYCLE DOUX / Iron: REPASSER À L&apos;ENVERS À FAIBLE CHALEUR / Others: NE PAS LAVER À SEC</ns0:careInstructionString>
+			<ns0:careInstructionSymbolString>5 Q h V Z</ns0:careInstructionSymbolString>
+			<ns0:careInstructions>
+				<ns0:category>Wash</ns0:category>
+				<ns0:descriptions>Laver à froid en machine (30°c), avec couleurs similaires  </ns0:descriptions>
+				<ns0:symbol>5</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Bleach</ns0:category>
+				<ns0:descriptions>Blanchiment sans chlore uniquement  </ns0:descriptions>
+				<ns0:symbol>Q</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Dry</ns0:category>
+				<ns0:descriptions>Sécher à la machine cycle doux  </ns0:descriptions>
+				<ns0:symbol>h</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Iron</ns0:category>
+				<ns0:descriptions>Repasser à l&apos;envers à faible chaleur  </ns0:descriptions>
+				<ns0:symbol>V</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Others</ns0:category>
+				<ns0:descriptions>Ne pas laver à sec  </ns0:descriptions>
+				<ns0:symbol>Z</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:exclusiveOf>À L&apos;exclusion De La Décoration</ns0:exclusiveOf>
+			<ns0:fiberContentShortString>ML KNT T SHRT COTTON.</ns0:fiberContentShortString>
+			<ns0:fiberContentString>Corps: 100% Coton</ns0:fiberContentString>
+			<ns0:productName>MALE KNIT T SHIRT</ns0:productName>
+			<ns0:sectionMaterials>
+				<ns0:fiberContents>
+					<ns0:name>Coton</ns0:name>
+					<ns0:percentText>100%</ns0:percentText>
+					<ns0:percentage>100</ns0:percentage>
+					<ns0:shortName>Cotton</ns0:shortName>
+				</ns0:fiberContents>
+				<ns0:materialName>Corps</ns0:materialName>
+			</ns0:sectionMaterials>
+		</ns0:GarmentLabel>
+		<ns0:GarmentLabel lang="fr_FR" isProcessed="true">
+			<ns0:abercrombieNumber>323339222214632832</ns0:abercrombieNumber>
+			<ns0:careInstructionString>Wash: LAVER À FROID EN MACHINE (30°C) , AVEC COULEURS SIMILAIRES / Bleach: BLANCHIMENT SANS CHLORE UNIQUEMENT / Dry: SÉCHER À LA MACHINE CYCLE DOUX / Iron: REPASSER À L&apos;ENVERS À FAIBLE CHALEUR / Others: NE PAS LAVER À SEC</ns0:careInstructionString>
+			<ns0:careInstructionSymbolString>5 Q h V Z</ns0:careInstructionSymbolString>
+			<ns0:careInstructions>
+				<ns0:category>Wash</ns0:category>
+				<ns0:descriptions>Laver à froid en machine (30°c), avec couleurs similaires  </ns0:descriptions>
+				<ns0:symbol>5</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Bleach</ns0:category>
+				<ns0:descriptions>Blanchiment sans chlore uniquement  </ns0:descriptions>
+				<ns0:symbol>Q</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Dry</ns0:category>
+				<ns0:descriptions>Sécher à la machine cycle doux  </ns0:descriptions>
+				<ns0:symbol>h</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Iron</ns0:category>
+				<ns0:descriptions>Repasser à l&apos;envers à faible chaleur  </ns0:descriptions>
+				<ns0:symbol>V</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Others</ns0:category>
+				<ns0:descriptions>Ne pas laver à sec  </ns0:descriptions>
+				<ns0:symbol>Z</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:exclusiveOf>À L&apos;exclusion De La Décoration</ns0:exclusiveOf>
+			<ns0:fiberContentShortString>ML KNT T SHRT COTTON.</ns0:fiberContentShortString>
+			<ns0:fiberContentString>Corps: 100% Coton</ns0:fiberContentString>
+			<ns0:productName>MALE KNIT T SHIRT</ns0:productName>
+			<ns0:sectionMaterials>
+				<ns0:fiberContents>
+					<ns0:name>Coton</ns0:name>
+					<ns0:percentText>100%</ns0:percentText>
+					<ns0:percentage>100</ns0:percentage>
+					<ns0:shortName>Cotton</ns0:shortName>
+				</ns0:fiberContents>
+				<ns0:materialName>Corps</ns0:materialName>
+			</ns0:sectionMaterials>
+		</ns0:GarmentLabel>
+		<ns0:GarmentLabel lang="it_IT" isProcessed="true">
+			<ns0:abercrombieNumber>323339222214632832</ns0:abercrombieNumber>
+			<ns0:careInstructionString>Wash: LAVARE IN LAVATRICE CON ACQUA FREDDA (30°C) , LAVARE CON COLORI SIMILI / Bleach: SOLO CANDEGGIANTI NON A BASE DI CLORO / Dry: CENTRIFUGA DELICATA / Iron: STIRARE A BASSA TEMPERATURA SUL ROVESCIO / Others: NON LAVARE A SECCO</ns0:careInstructionString>
+			<ns0:careInstructionSymbolString>5 Q h V Z</ns0:careInstructionSymbolString>
+			<ns0:careInstructions>
+				<ns0:category>Wash</ns0:category>
+				<ns0:descriptions>Lavare in lavatrice con acqua fredda (30°c), lavare con colori simili  </ns0:descriptions>
+				<ns0:symbol>5</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Bleach</ns0:category>
+				<ns0:descriptions>Solo candeggianti non a base di cloro  </ns0:descriptions>
+				<ns0:symbol>Q</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Dry</ns0:category>
+				<ns0:descriptions>Centrifuga delicata  </ns0:descriptions>
+				<ns0:symbol>h</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Iron</ns0:category>
+				<ns0:descriptions>Stirare a bassa temperatura sul rovescio  </ns0:descriptions>
+				<ns0:symbol>V</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Others</ns0:category>
+				<ns0:descriptions>Non lavare a secco  </ns0:descriptions>
+				<ns0:symbol>Z</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:exclusiveOf>Esclusa Decorazione</ns0:exclusiveOf>
+			<ns0:fiberContentShortString>ML KNT T SHRT COTTON.</ns0:fiberContentShortString>
+			<ns0:fiberContentString>Corpo: 100% Cotone</ns0:fiberContentString>
+			<ns0:productName>MALE KNIT T SHIRT</ns0:productName>
+			<ns0:sectionMaterials>
+				<ns0:fiberContents>
+					<ns0:name>Cotone</ns0:name>
+					<ns0:percentText>100%</ns0:percentText>
+					<ns0:percentage>100</ns0:percentage>
+					<ns0:shortName>Cotton</ns0:shortName>
+				</ns0:fiberContents>
+				<ns0:materialName>Corpo</ns0:materialName>
+			</ns0:sectionMaterials>
+		</ns0:GarmentLabel>
+		<ns0:GarmentLabel lang="ja_JP" isProcessed="true">
+			<ns0:abercrombieNumber>323339222214632832</ns0:abercrombieNumber>
+			<ns0:careInstructionString>Wash: 洗濯機で水洗いしてください , 同系色の衣類と一緒に / Bleach: 非塩素系の漂白剤のみ / Dry: 低温のタンブル乾燥機を使用してください / Iron: 裏側に低温のアイロンをかけてください (80ºC - 120ºC) / Others: ドライクリーニング禁止</ns0:careInstructionString>
+			<ns0:careInstructionSymbolString>5 Q h V Z</ns0:careInstructionSymbolString>
+			<ns0:careInstructions>
+				<ns0:category>Wash</ns0:category>
+				<ns0:descriptions>洗濯機で水洗いしてください, 同系色の衣類と一緒に  </ns0:descriptions>
+				<ns0:symbol>5</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Bleach</ns0:category>
+				<ns0:descriptions>非塩素系の漂白剤のみ  </ns0:descriptions>
+				<ns0:symbol>Q</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Dry</ns0:category>
+				<ns0:descriptions>低温のタンブル乾燥機を使用してください  </ns0:descriptions>
+				<ns0:symbol>h</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Iron</ns0:category>
+				<ns0:descriptions>裏側に低温のアイロンをかけてください (80ºc - 120ºc)  </ns0:descriptions>
+				<ns0:symbol>V</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Others</ns0:category>
+				<ns0:descriptions>ドライクリーニング禁止  </ns0:descriptions>
+				<ns0:symbol>Z</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:exclusiveOf>装飾を除く</ns0:exclusiveOf>
+			<ns0:fiberContentShortString>ML KNT T SHRT COTTON.</ns0:fiberContentShortString>
+			<ns0:fiberContentString>ボディ: 100% コットン</ns0:fiberContentString>
+			<ns0:productName>MALE KNIT T SHIRT</ns0:productName>
+			<ns0:sectionMaterials>
+				<ns0:fiberContents>
+					<ns0:name>コットン</ns0:name>
+					<ns0:percentText>100%</ns0:percentText>
+					<ns0:percentage>100</ns0:percentage>
+					<ns0:shortName>Cotton</ns0:shortName>
+				</ns0:fiberContents>
+				<ns0:materialName>ボディ</ns0:materialName>
+			</ns0:sectionMaterials>
+		</ns0:GarmentLabel>
+		<ns0:GarmentLabel lang="nl_NL" isProcessed="true">
+			<ns0:abercrombieNumber>323339222214632832</ns0:abercrombieNumber>
+			<ns0:careInstructionString>Wash: MACHINEWAS 30ºC , MET DEZELFDE KLEUR / Bleach: ALLEEN CHLOORVRIJE BLEEKMIDDELEN / Dry: CENTRIFUGEREN OP LAAG TOERENTAL / Iron: LAUWWARM STRIJKEN OP VERKEERDE KANT / Others: NIET CHEMISCH REINIGEN</ns0:careInstructionString>
+			<ns0:careInstructionSymbolString>5 Q h V Z</ns0:careInstructionSymbolString>
+			<ns0:careInstructions>
+				<ns0:category>Wash</ns0:category>
+				<ns0:descriptions>Machinewas 30ºc, met dezelfde kleur  </ns0:descriptions>
+				<ns0:symbol>5</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Bleach</ns0:category>
+				<ns0:descriptions>Alleen chloorvrije bleekmiddelen  </ns0:descriptions>
+				<ns0:symbol>Q</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Dry</ns0:category>
+				<ns0:descriptions>Centrifugeren op laag toerental  </ns0:descriptions>
+				<ns0:symbol>h</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Iron</ns0:category>
+				<ns0:descriptions>Lauwwarm strijken op verkeerde kant  </ns0:descriptions>
+				<ns0:symbol>V</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Others</ns0:category>
+				<ns0:descriptions>Niet chemisch reinigen  </ns0:descriptions>
+				<ns0:symbol>Z</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:exclusiveOf>Exclusief Decoratie</ns0:exclusiveOf>
+			<ns0:fiberContentShortString>ML KNT T SHRT COTTON.</ns0:fiberContentShortString>
+			<ns0:fiberContentString>Body: 100% Katoen</ns0:fiberContentString>
+			<ns0:productName>MALE KNIT T SHIRT</ns0:productName>
+			<ns0:sectionMaterials>
+				<ns0:fiberContents>
+					<ns0:name>Katoen</ns0:name>
+					<ns0:percentText>100%</ns0:percentText>
+					<ns0:percentage>100</ns0:percentage>
+					<ns0:shortName>Cotton</ns0:shortName>
+				</ns0:fiberContents>
+				<ns0:materialName>Body</ns0:materialName>
+			</ns0:sectionMaterials>
+		</ns0:GarmentLabel>
+		<ns0:GarmentLabel lang="zh_CN" isProcessed="true">
+			<ns0:abercrombieNumber>323339222214632832</ns0:abercrombieNumber>
+			<ns0:careInstructionString>Wash: 冷水机洗 , 可与相似色同洗 / Bleach: 仅允许非氯漂 / Dry: 低温翻转干燥 / Iron: 低温反面熨烫 / Others: 不可干洗</ns0:careInstructionString>
+			<ns0:careInstructionSymbolString>5 Q h V Z</ns0:careInstructionSymbolString>
+			<ns0:careInstructions>
+				<ns0:category>Wash</ns0:category>
+				<ns0:descriptions>冷水机洗, 可与相似色同洗  </ns0:descriptions>
+				<ns0:symbol>5</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Bleach</ns0:category>
+				<ns0:descriptions>仅允许非氯漂  </ns0:descriptions>
+				<ns0:symbol>Q</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Dry</ns0:category>
+				<ns0:descriptions>低温翻转干燥  </ns0:descriptions>
+				<ns0:symbol>h</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Iron</ns0:category>
+				<ns0:descriptions>低温反面熨烫  </ns0:descriptions>
+				<ns0:symbol>V</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Others</ns0:category>
+				<ns0:descriptions>不可干洗  </ns0:descriptions>
+				<ns0:symbol>Z</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:exclusiveOf>装饰物除外</ns0:exclusiveOf>
+			<ns0:fiberContentShortString>ML KNT T SHRT COTTON.</ns0:fiberContentShortString>
+			<ns0:fiberContentString>大身: 100% 棉</ns0:fiberContentString>
+			<ns0:productName>MALE KNIT T SHIRT</ns0:productName>
+			<ns0:sectionMaterials>
+				<ns0:fiberContents>
+					<ns0:name>棉</ns0:name>
+					<ns0:percentText>100%</ns0:percentText>
+					<ns0:percentage>100</ns0:percentage>
+					<ns0:shortName>Cotton</ns0:shortName>
+				</ns0:fiberContents>
+				<ns0:materialName>大身</ns0:materialName>
+			</ns0:sectionMaterials>
+		</ns0:GarmentLabel>
+		<ns0:GarmentLabel lang="zh_TW" isProcessed="true">
+			<ns0:abercrombieNumber>323339222214632832</ns0:abercrombieNumber>
+			<ns0:careInstructionString>Wash: 冷水清洗（30°C） , 與同色系衣物一起清洗 / Bleach: 僅可用不含氯的漂白劑 / Dry: 低溫機器烘乾 / Iron: 反面低溫熨燙 / Others: 不可乾洗</ns0:careInstructionString>
+			<ns0:careInstructionSymbolString>5 Q h V Z</ns0:careInstructionSymbolString>
+			<ns0:careInstructions>
+				<ns0:category>Wash</ns0:category>
+				<ns0:descriptions>冷水清洗（30°c）, 與同色系衣物一起清洗  </ns0:descriptions>
+				<ns0:symbol>5</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Bleach</ns0:category>
+				<ns0:descriptions>僅可用不含氯的漂白劑  </ns0:descriptions>
+				<ns0:symbol>Q</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Dry</ns0:category>
+				<ns0:descriptions>低溫機器烘乾  </ns0:descriptions>
+				<ns0:symbol>h</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Iron</ns0:category>
+				<ns0:descriptions>反面低溫熨燙  </ns0:descriptions>
+				<ns0:symbol>V</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:careInstructions>
+				<ns0:category>Others</ns0:category>
+				<ns0:descriptions>不可乾洗  </ns0:descriptions>
+				<ns0:symbol>Z</ns0:symbol>
+			</ns0:careInstructions>
+			<ns0:exclusiveOf>不包括飾物</ns0:exclusiveOf>
+			<ns0:fiberContentShortString>ML KNT T SHRT COTTON.</ns0:fiberContentShortString>
+			<ns0:fiberContentString>布身: 100% 棉</ns0:fiberContentString>
+			<ns0:productName>MALE KNIT T SHIRT</ns0:productName>
+			<ns0:sectionMaterials>
+				<ns0:fiberContents>
+					<ns0:name>棉</ns0:name>
+					<ns0:percentText>100%</ns0:percentText>
+					<ns0:percentage>100</ns0:percentage>
+					<ns0:shortName>Cotton</ns0:shortName>
+				</ns0:fiberContents>
+				<ns0:materialName>布身</ns0:materialName>
+			</ns0:sectionMaterials>
+		</ns0:GarmentLabel>
+		</ns0:GarmentLabels>
+	</ns0:ItemLabel>
+</ns0:AnfItemLabelMessage>
