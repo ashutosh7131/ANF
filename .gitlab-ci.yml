@@ -1,0 +1,42 @@
+
+workflow:
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+      when: never
+    - when: always
+
+include:
+  - project: integration-modernization/shared-pipeline-library
+    file: gitlab-templates/gradle/v2/gradle-gitlab-ci.yml
+    ref: master
+
+variables:
+  VERSION: v1.0.0
+  VERSION_LEVEL: minor
+## Possible values for VERSION_LEVEL are:
+#    patch (default if you dont specify) - regular fixes
+#    minor - non-breaking changes
+#    major - breaking changes
+
+  NAME_SPACE: intmod
+  APP_NAME: itemlabel-producer-application
+
+## TEST CONFIGURATION ##
+  UNITTEST: Enabled
+  PERFTEST: Disabled
+  INTTEST: Enabled
+
+## DOCKER CONTAINER & IMAGE CONFIGURATION ##
+  CI_GRADLE_IMAGE: gradle:jdk17
+  REGISTRY_URL: ${CI_REGISTRY}/${CI_REGISTRY_NAME}/$APP_NAME
+  CI_SERVICE_INITIAL_DELAY_SECONDS: 180
+
+## SWAGGERHUB CONFIGURATION ##
+# IMPORTANT: Please disable CI_SWAGGER_HUB_JOBS if your application is a Kafka consumer.
+  CI_SWAGGER_HUB_JOBS: Enabled
+  CI_SWAGGER_SPEC_LOCATION: ${CI_PROJECT_DIR}/src/main/resources/static
+  CI_SWAGGER_SPEC_FILENAME: openapi.yaml
+
+## NEOLOAD CONFIGURATION ##
+#  NEOLOAD_SCENARIO: YOUR-NEOLOAD-TEST-SCENARIO-NAME
+#  NEOLOAD_TEST: YOUR-NEOLOAD-TEST-NAME
